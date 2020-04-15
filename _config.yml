@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Beijing, China"
-title                    : "Shuo Ren's Homepage"
+locale                   : "en-US"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://rshuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rshuo/rshuo.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shuo Ren (任烁)"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : 
-  location         : 
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=bC-AGbgAAAAJ&hl=en"
-  email            : "shuoren@buaa.edu.cn"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -174,6 +174,19 @@ kramdown:
 
 
 # Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -189,40 +202,48 @@ defaults:
       comments: true
       share: true
       related: true
-  # _about
+  # _pages
   - scope:
       path: ""
-      type: about
+      type: pages
     values:
       layout: single
       author_profile: true
-  ## _teaching
-  #- scope:
-  #    path: ""
-  #    type: teaching
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comments: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
-  ## _portfolio
-  # - scope:
-  #    path: ""
-  #   type: portfolio
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comment: true
-  ## _talks
-  # - scope:
-  #   path: ""
-  #    type: talks
-  #  values:
-  #    layout: talk
-  #    author_profile: true
-  #    share: true
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
@@ -234,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
