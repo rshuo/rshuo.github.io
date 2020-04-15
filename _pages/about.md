@@ -10,6 +10,8 @@ redirect_from:
 
 I am currently a joint PhD student of Beihang University (BUAA) and Microsoft Research Asia (MSRA) under the supervision of Prof. Shuai Ma of BUAA and Prof. Ming Zhou of MSRA. I started my PhD in 2016 and expect to graduate in June, 2021.
 
+Email: shuoren@buaa.edu.cn
+
 ## Research Interests
 
 Neural Machine Translation, Low-resource and Unsupervised Machine Translation, Cross-lingual Embeddings
