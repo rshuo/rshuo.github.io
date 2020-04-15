@@ -38,11 +38,6 @@ Hany Hassan, Anthony Aue, Chang Chen, Vishal Chowdhary, Jonathan Clark, Christia
 Zhirui Zhang*, Shuo Ren*, Shujie Liu, Jianyong Wang, Peng Chen, Mu Li, Ming Zhou and Enhong Chen, Style Transfer as Unsupervised Machine Translation, 2018. (* equal contribution) [arxiv]
 Wenhu Chen, Guanlin Li, Shujie Liu, Zhirui Zhang, Mu Li, Ming Zhou, Approximate Distribution Matching for Sequence-to-Sequence Learning, 2018. [arxiv]
 
-
-Publications
-======
-
-
 Education and Experience
 ======
 Education
