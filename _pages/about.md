@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shuo Ren's Homepage"
+title: "Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
