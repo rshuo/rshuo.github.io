@@ -42,8 +42,8 @@ Chen Shi, Shujie Liu, **Shuo Ren**, Shi Feng, Mu Li, Ming Zhou‡, Xu Sun, Houfe
 
 ### Preprints
 
-Chengyi Wang, Yu Wu, (<u>Alphabetical Order</u>) Yujiao Du, Jinyu Li, Shujie Liu, Liang Lu, **Shuo Ren**, Guoli Ye, Sheng Zhao, Ming Zhou, 
-Semantic Mask for Transformer based End-to-End Speech Recognition, 2019. [paper](https://arxiv.org/pdf/1912.03010.pdf)
+Chengyi Wang, Yu Wu, Yujiao Du\*, Jinyu Li\*, Shujie Liu\*, Liang Lu\*, **Shuo Ren**\*, Guoli Ye, Sheng Zhao, Ming Zhou, 
+Semantic Mask for Transformer based End-to-End Speech Recognition, 2019. (* alphabetical order) [paper](https://arxiv.org/pdf/1912.03010.pdf)
 
 Zhirui Zhang*, **Shuo Ren**\*, Shujie Liu, Jianyong Wang, Peng Chen, Mu Li, Ming Zhou and Enhong Chen, Style Transfer as Unsupervised Machine Translation, 2018. (* equal contribution) [paper](https://arxiv.org/pdf/1808.07894.pdf)
 
