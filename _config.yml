@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Shuo Ren's Home Page"
+title                    : "Shuo Ren's Homepage"
 title_separator          : "-"
 name                     : &name "Shuo Ren"
 description              : &description "joint phd student of BUAA and MSRA"
