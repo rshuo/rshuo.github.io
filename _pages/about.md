@@ -17,7 +17,7 @@ Neural Machine Translation, Low-resource and Unsupervised Machine Translation, C
 Publications
 ======
 Journal & Conference Papers
------
+------
 2020
 Baijun Ji, Zhirui Zhang, Xiangyu Duan, Min Zhang, Boxing Chen and Weihua Luo, Cross-lingual Pre-training Based Transfer for Zero-shot Neural Machine Translation, The 34th AAAI Conference on Artificial Intelligence (AAAI 2020).
 2019
@@ -41,24 +41,24 @@ Wenhu Chen, Guanlin Li, Shujie Liu, Zhirui Zhang, Mu Li, Ming Zhou, Approximate 
 Education and Experience
 ======
 Education
-------
+-------
 
 Sept. 2016 - Now
-**Ph.D. candidate in Computer Science & Joint Ph.D. Program with Microsoft Research Asia
+** Ph.D. candidate in Computer Science & Joint Ph.D. Program with Microsoft Research Asia
 Beihang University
 
 Sept. 2012 - June 2016
-**B.S. in Computer Science
+** B.S. in Computer Science
 Beihang University
 
 Experience
-------
+-------
 June 2017 — Now
-**Research Intern, Natural Language Computing Group, Microsoft Research Asia
+** Research Intern, Natural Language Computing Group, Microsoft Research Asia
 Conducting researching in Machine Translation, mentored by Shujie Liu.
 
 July 2015 - July 2016
-**Research Intern, Natural Language Computing Group, Microsoft Research Asia
+** Research Intern, Natural Language Computing Group, Microsoft Research Asia
 Conducting researching in NLP, mentored by Mu Liu.
 
 Conference Service
