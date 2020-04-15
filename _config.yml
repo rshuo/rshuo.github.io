@@ -85,9 +85,9 @@ author:
   bio              : 
   location         : "Beijing, China"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bC-AGbgAAAAJ&hl=en"
-  email            : "shuoren@buaa.edu.cn"
+  email:shuoren@buaa.edu.cn            : "shuoren@buaa.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
