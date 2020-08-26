@@ -21,8 +21,10 @@ Neural Machine Translation, Low-resource and Unsupervised Machine Translation, C
 ### Journal & Conference Papers
 
 * 2020
-    - **Shuo Ren**, Yu Wu, Shujie Liu, Ming Zhou, Shuai Ma, *A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction*, The 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020).
-    - **Shuo Ren**, Yu Wu, Shujie Liu, Ming Zhou, Shuai Ma, *A Retrieve-and-Rewrite Initialization Method for Unsupervised Machine Translation*, The 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020).
+    - **Shuo Ren**, Shujie Liu, Ming Zhou, Shuai Ma, *A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction*, The 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020). [paper](https://www.aclweb.org/anthology/2020.acl-main.318.pdf)
+    - **Shuo Ren**, Yu Wu, Shujie Liu, Ming Zhou, Shuai Ma, *A Retrieve-and-Rewrite Initialization Method for Unsupervised Machine Translation*, The 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020). [paper](https://www.aclweb.org/anthology/2020.acl-main.320.pdf)
+    - Chengyi Wang, Yu Wu, Yujiao Du\*, Jinyu Li\*, Shujie Liu\*, Liang Lu\*, **Shuo Ren**\*, Guoli Ye, Sheng Zhao, Ming Zhou, 
+*Semantic Mask for Transformer based End-to-End Speech Recognition*, (INTERSPEECH 2020). (* alphabetical order) [paper](https://arxiv.org/pdf/1912.03010.pdf)
 
 * 2019
     - **Shuo Ren**, Yu Wu, Shujie Liu, Ming Zhou, Shuai Ma, *Explicit Cross-lingual Pre-training for Unsupervised Machine Translation*, 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019). [paper](https://arxiv.org/pdf/1909.00180.pdf)
@@ -36,9 +38,6 @@ Neural Machine Translation, Low-resource and Unsupervised Machine Translation, C
     - Chen Shi, Shujie Liu, **Shuo Ren**, Shi Feng, Mu Li, Ming Zhou‡, Xu Sun, Houfeng Wang, *Knowledge-Based Semantic Embedding for Machine Translation*, The 54th Annual Meeting of the Association for Computational Linguistics (ACL 2018). [paper](https://www.aclweb.org/anthology/P16-1212.pdf)
 
 ### Preprints
-
-- Chengyi Wang, Yu Wu, Yujiao Du\*, Jinyu Li\*, Shujie Liu\*, Liang Lu\*, **Shuo Ren**\*, Guoli Ye, Sheng Zhao, Ming Zhou, 
-*Semantic Mask for Transformer based End-to-End Speech Recognition*, 2019. (* alphabetical order) [paper](https://arxiv.org/pdf/1912.03010.pdf)
 
 - Zhirui Zhang\*, **Shuo Ren**\*, Shujie Liu, Jianyong Wang, Peng Chen, Mu Li, Ming Zhou and Enhong Chen, *Style Transfer as Unsupervised Machine Translation*, 2018. (* equal contribution) [paper](https://arxiv.org/pdf/1808.07894.pdf)
 
@@ -69,6 +68,7 @@ Conducting researching in NLP, mentored by Mu Li.**
 * 2018 IEEE Access Reviewer
 * 2018 Program Committee: EMNLP
 * 2019 Program Committee: NAACL
+* 2020 Program Committee: EMNLP
 
 ## Award
 
