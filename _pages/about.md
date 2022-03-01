@@ -19,6 +19,15 @@ Neural Machine Translation, Low-resource and Unsupervised Machine Translation, C
 ## Publications
 
 ### Journal & Conference Papers
+* 2022
+    - Wei Wang, **Shuo Ren**, Yao Qian, Shujie Liu, Yu Shi, Yanmin Qian, Michael Zeng, *Optimizing Alignment of Speech and Language Latent Spaces for End-to-End Speech Recognition and Understanding*,  (INTERSPEECH 2022). [paper](https://arxiv.org/pdf/2110.12138.pdf)
+    - Junyi Ao, Rui Wang, Long Zhou, Shujie Liu, **Shuo Ren**, Yu Wu, Tom Ko, Qing Li, Yu Zhang, Zhihua Wei, Yao Qian, Jinyu Li, Furu Wei, *Speecht5: Unified-modal Encoder-decoder Pre-training for Spoken Language Processing*, The 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022). [paper](https://arxiv.org/pdf/2110.07205.pdf)
+
+* 2021
+    - **Shuo Ren**, Long Zhou, Shujie Liu, Furu Wei, Ming Zhou, Shuai Ma, *SemFace: Pre-training Encoder and Decoder with a Semantic Interface for Neural Machine Translation*, The 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021). [paper](https://aclanthology.org/2021.acl-long.348.pdf)
+    - Daya Guo, **Shuo Ren**, Shuai Lu, et al., *Graphcodebert: Pre-training Code Representations with Data Flow*, The 9th International Conference on Learning Representations (ICLR 2021). [paper](https://arxiv.org/pdf/2009.08366.pdf)
+    - Shuai Lu, Daya Guo, **Shuo Ren**, Junjie Huang, et al., *CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation*, NeurIPS 2021 Datasets and Benchmarks Track. [paper](https://arxiv.org/pdf/2102.04664.pdf) 
+    - Sanyuan Chen, Chengyi Wang, Zhengyang Chen, Yu Wu, Shujie Liu, Zhuo Chen, Jinyu Li, Naoyuki Kanda, Takuya Yoshioka, Xiong Xiao, Jian Wu, Long Zhou, **Shuo Ren**, Yanmin Qian, Yao Qian, Jian Wu, Michael Zeng, Xiangzhan Yu, Furu Wei, *WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing*, [paper](https://arxiv.org/pdf/2110.13900.pdf) 
 
 * 2020
     - **Shuo Ren**, Shujie Liu, Ming Zhou, Shuai Ma, *A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction*, The 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020). [paper](https://www.aclweb.org/anthology/2020.acl-main.318.pdf)
@@ -45,7 +54,7 @@ Neural Machine Translation, Low-resource and Unsupervised Machine Translation, C
 
 ### Education
 
-* Sept. 2016 - Now
+* Sept. 2016 - 2021
     - **Ph.D. candidate in Computer Science & Joint Ph.D. Program with Microsoft Research Asia
 Beihang University**
 
@@ -54,21 +63,16 @@ Beihang University**
 Beihang University**
 
 ## Experience
+* July 2021 - Now
+  - **Researcher, MSRA**
 
-* June 2017 - Now
+* June 2017 - 2021
     - **Research Intern, Natural Language Computing Group, Microsoft Research Asia
 Conducting researching in Machine Translation, mentored by Shujie Liu.**
 
 * July 2015 - July 2016
     - **Research Intern, Natural Language Computing Group, Microsoft Research Asia
 Conducting researching in NLP, mentored by Mu Li.**
-
-### Conference Service
-
-* 2018 IEEE Access Reviewer
-* 2018 Program Committee: EMNLP
-* 2019 Program Committee: NAACL
-* 2020 Program Committee: EMNLP
 
 ## Award
 
