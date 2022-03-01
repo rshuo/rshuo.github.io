@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a joint PhD student of Beihang University (BUAA) and Microsoft Research Asia (MSRA) under the supervision of Prof. Shuai Ma of BUAA and Prof. Ming Zhou of MSRA. I started my PhD in 2016 and expect to graduate in June, 2021.
+I am currently a researcher in Microsoft Research Asia (MSRA), NLC group. I received my PhD in June 2021 under the supervision of Prof. Shuai Ma of Beihang University (BUAA) and Prof. Ming Zhou of MSRA. 
 
-Email: shuoren@buaa.edu.cn
+Email: renshuo@microsoft.com
 
 ## Research Interests
 
-Neural Machine Translation, Low-resource and Unsupervised Machine Translation, Cross-lingual Embeddings
+Neural Machine Translation, Low-resource and Unsupervised Machine Translation, Speech Pre-training
 
 ## Publications
 
