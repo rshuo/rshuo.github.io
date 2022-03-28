@@ -20,7 +20,7 @@ Neural Machine Translation, Low-resource and Unsupervised Machine Translation, S
 
 ### Journal & Conference Papers
 * 2022
-    - Wei Wang, **Shuo Ren**, Yao Qian, Shujie Liu, Yu Shi, Yanmin Qian, Michael Zeng, *Optimizing Alignment of Speech and Language Latent Spaces for End-to-End Speech Recognition and Understanding*,  (INTERSPEECH 2022). [paper](https://arxiv.org/pdf/2110.12138.pdf)
+    - Wei Wang, **Shuo Ren**, Yao Qian, Shujie Liu, Yu Shi, Yanmin Qian, Michael Zeng, *Optimizing Alignment of Speech and Language Latent Spaces for End-to-End Speech Recognition and Understanding*,  (ICASSP 2022). [paper](https://arxiv.org/pdf/2110.12138.pdf)
     - Junyi Ao, Rui Wang, Long Zhou, Shujie Liu, **Shuo Ren**, Yu Wu, Tom Ko, Qing Li, Yu Zhang, Zhihua Wei, Yao Qian, Jinyu Li, Furu Wei, *Speecht5: Unified-modal Encoder-decoder Pre-training for Spoken Language Processing*, The 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022). [paper](https://arxiv.org/pdf/2110.07205.pdf)
 
 * 2021
