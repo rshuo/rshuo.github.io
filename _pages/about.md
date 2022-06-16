@@ -20,6 +20,7 @@ Neural Machine Translation, Low-resource and Unsupervised Machine Translation, S
 
 ### Journal & Conference Papers
 * 2022
+    - **Shuo Ren**, Shujie Liu, Yu Wu, Long Zhou, Furu Wei, *Speech Pre-training with Acoustic Piece*, (INTERSPEECH 2022). [paper](https://arxiv.org/pdf/2204.03240.pdf)
     - Wei Wang, **Shuo Ren**, Yao Qian, Shujie Liu, Yu Shi, Yanmin Qian, Michael Zeng, *Optimizing Alignment of Speech and Language Latent Spaces for End-to-End Speech Recognition and Understanding*,  (ICASSP 2022). [paper](https://arxiv.org/pdf/2110.12138.pdf)
     - Junyi Ao, Rui Wang, Long Zhou, Shujie Liu, **Shuo Ren**, Yu Wu, Tom Ko, Qing Li, Yu Zhang, Zhihua Wei, Yao Qian, Jinyu Li, Furu Wei, *Speecht5: Unified-modal Encoder-decoder Pre-training for Spoken Language Processing*, The 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022). [paper](https://arxiv.org/pdf/2110.07205.pdf)
     - Sanyuan Chen, Chengyi Wang, Zhengyang Chen, Yu Wu, Shujie Liu, Zhuo Chen, Jinyu Li, Naoyuki Kanda, Takuya Yoshioka, Xiong Xiao, Jian Wu, Long Zhou, **Shuo Ren**, Yanmin Qian, Yao Qian, Jian Wu, Michael Zeng, Xiangzhan Yu, Furu Wei, *WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing*, (submitted to the IEEE Journal of Selected Topics in Signal Processing). [paper](https://arxiv.org/pdf/2110.13900.pdf) 
