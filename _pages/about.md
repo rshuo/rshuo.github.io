@@ -65,7 +65,7 @@ Beihang University**
 
 ## Research Experience
 * January 2024 till Now *
-  - **Associate Research, CASIA**
+  - **Associate Researcher, CASIA**
     
 * July 2021 - August 2022 *
   - **Researcher, MSRA**
