@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a researcher in Microsoft Research Asia (MSRA), NLC group. I received my PhD in June 2021 under the supervision of Prof. Shuai Ma of Beihang University (BUAA) and Prof. Ming Zhou of MSRA. 
+I am currently an associate researcher at the Institute of Automation, Chinese Academy of Sciences. I received my PhD in June 2021 under the supervision of Prof. Shuai Ma of Beihang University (BUAA) and Prof. Ming Zhou of MSRA. 
 
 Email: renshuo@microsoft.com
 
 ## Research Interests
 
-Neural Machine Translation, Low-resource and Unsupervised Machine Translation, Speech Pre-training
+Neural Machine Translation, Low-resource and Unsupervised Machine Translation, Muti-modal pre-training
 
 ## Publications
 
