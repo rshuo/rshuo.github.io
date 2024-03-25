@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an associate researcher at the Institute of Automation, Chinese Academy of Sciences. I received my PhD in June 2021 under the supervision of Prof. Shuai Ma of Beihang University (BUAA) and Prof. Ming Zhou of MSRA. 
+I am currently an associate researcher at the Institute of Automation, Chinese Academy of Sciences (CASIA). I received my PhD in June 2021 under the supervision of Prof. Shuai Ma of Beihang University (BUAA) and Prof. Ming Zhou of MSRA. 
 
 Email: renshuo@microsoft.com
 
@@ -63,8 +63,11 @@ Beihang University**
     - **B.S. in Computer Science
 Beihang University**
 
-## Experience
-* July 2021 - Now
+## Research Experience
+* January 2024 till Now *
+  - **Associate Research, CASIA**
+    
+* July 2021 - August 2022 *
   - **Researcher, MSRA**
 
 * June 2017 - 2021
